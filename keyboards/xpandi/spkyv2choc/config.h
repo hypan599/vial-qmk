@@ -22,7 +22,6 @@
 /* key matrix size */
 #define MATRIX_ROWS 7
 #define MATRIX_COLS 10
-
 // #define LAYOUT_all LAYOUT_default
 
 /*
